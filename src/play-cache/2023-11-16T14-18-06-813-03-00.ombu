@@ -1,0 +1,19 @@
+OmEntry {
+	#tags : {
+		#timestamp : DateAndTime [ '2023-11-16T17:32:32.181-03:00' ],
+		#self : OmReference [ '1' ]
+	},
+	#content : 'C'
+}OmEntry {
+	#tags : {
+		#timestamp : DateAndTime [ '2023-11-16T17:52:42.548-03:00' ],
+		#self : OmReference [ '2' ]
+	},
+	#content : '|game|\r\rgame:= Menu new.\r'
+}OmEntry {
+	#tags : {
+		#timestamp : DateAndTime [ '2023-11-16T18:35:00.04-03:00' ],
+		#self : OmReference [ '3' ]
+	},
+	#content : '|game|\r\rgame:= Menu new.'
+}
